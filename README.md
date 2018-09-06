@@ -10,7 +10,7 @@
    Puxl (ˈpʌksl) is an open source, eco-friendly front-end library for the modern Web. Create accessibility first, responsive apps with lightweight HTML5, CSS3 and JS. 
   
   
-  ## We are working on the "documentation" of the project. Meanwhile you can check our [guideline](https://github.com/puxl/puxl-RC/edit/master/guideline/README.md) out. 
+  ## We are working on the web docs of the project. Meanwhile you can check our [guideline](https://github.com/puxl/puxl-RC/edit/master/guideline/README.md) out. 
   
   
   ## Thanks
