@@ -20,3 +20,8 @@
   </a>
   
   Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
+  
+  
+  ## Copyrigth and license
+  
+ Code released under the [MIT License](https://github.com/puxl/puxl-RC/blob/master/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/).
